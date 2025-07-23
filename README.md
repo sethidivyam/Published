@@ -1,7 +1,6 @@
 # Privacy Policy
 
 **Published by: Divyam Sethi**  
-**Effective Date:** [Insert Date]
 
 This Privacy Policy applies to all mobile applications published by **Divyam Sethi** on the **Google Play Store** and **Apple App Store**.
 
